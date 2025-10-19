@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Software Engineering Banner" width="100%" />
+  <img src="https://img.freepik.com/free-photo/futurism-perspective-digital-nomads-lifestyle_23-2151778957.jpg?w=1500" 
+       alt="Futuristic Software Engineering Banner" width="100%" />
+  <br/>
+  <sub><i>Image credit: <a href="https://www.freepik.com/free-ai-image/futurism-perspective-digital-nomads-lifestyle_138710921.htm" target="_blank">Freepik</a></i></sub>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Dharana Thilakarathna</span></h1>
