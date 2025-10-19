@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://i.imgur.com/gYv2cxC.png" alt="Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Software Engineering Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Dharana Thilakarathna</span></h1>
@@ -13,11 +13,11 @@
 
 ## 🧠 About Me
 
-- 👀 Passionate about **Software Engineering, Web & Mobile App Development, AI, and Cloud Technologies**  
-- 🌱 Currently learning **React, Node.js, and Machine Learning**  
-- 💞️ Open to collaborate on **Open Source Projects and Innovative Tech Solutions**  
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dharana-thilakarathna) or [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-- ⚡ Fun fact: I love turning **coffee ☕ into code 💻**  
+- 👀 Passionate about **Software Engineering, Web & Mobile App Development, AI, and Cloud Technologies**
+- 🌱 Currently learning **React, Node.js, and Machine Learning**
+- 💞️ Open to collaborate on **Open Source Projects and Innovative Tech Solutions**
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dharana-thilakarathna) or [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- ⚡ Fun fact: I love turning **coffee ☕ into code 💻**
 
 ---
 
@@ -75,16 +75,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharana418&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
-
----
-
-### 🎨 Header Image Sources
-If you’d like to use a **software-engineering themed** banner instead of the ocean one, here are a few professional banner options:
-- 🖥️ [Tech Workspace Banner](https://i.imgur.com/gYv2cxC.png) ← *used above*  
-- 💻 [Dark Developer Desk](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80)  
-- 🌐 [Code Abstract Background](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1500&q=80)  
-You can replace the top `<img>` link with any of these!
-
----
-
-⭐ **Pro Tip:** To use this as your GitHub Profile README, rename your repo to your username (e.g. `Dharana418/Dharana418`) and add this code to `README.md`.
