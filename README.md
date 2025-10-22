@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/Dharana418/Dharana418/main/futurism-perspective-digital-nomads-lifestyle.jpg" 
        alt="Futuristic Software Engineering Banner" width="100%" />
   <br/>
-  <sub><i>Image credit: <a href="https://www.freepik.com/free-ai-image/futurism-perspective-digital-nomads-lifestyle_138710921.htm" target="_blank">Freepik</a></i></sub>
-</p>
 
 <!-- 💬 Intro -->
 <h1 align="center">
